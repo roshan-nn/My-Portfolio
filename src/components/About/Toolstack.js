@@ -2,10 +2,10 @@ import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
   SiVisualstudiocode,
-  SiPostman,
-  SiSlack,
+  //SiPostman,
+  //SiSlack,
   SiVercel,
-  SiMacos,
+ // SiMacos,
   SiReactrouter,
   SiRedux,
 
